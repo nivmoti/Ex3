@@ -1,0 +1,80 @@
+{|
+! python
+! java
+!
+|-
+| 0.012s
+| 0.064s
+| shortPath
+|-
+| 0.013s
+| 0.057s
+| centerPoint
+|-
+| 0.014s
+| 0.072s
+| TSP
+|-
+| 0.015s
+| 0.136s
+| save_to_json
+|-
+| 0.012s
+| 0.09s
+| load_from_json
+|}
+
+<blockquote>Operatinsg System: windows 10
+
+Manufacturers: ASUSTeK.
+
+CPU: intel® Core™ @i5 -10210U 1.60GHZ 2.11 GHz
+
+RAM: 16.0 GB
+
+System: 64 bit
+</blockquote>
+{|
+|
+<blockquote>Chart Title0.16
+
+0.14
+
+0.12
+</blockquote>
+{|
+| 0.1
+|}
+
+<blockquote>0.08
+
+0.06
+
+0.04
+
+0.02
+
+0
+</blockquote>
+{|
+! short path
+!
+<blockquote>center point
+</blockquote>
+! java
+!
+<blockquote>TSP
+</blockquote>
+! szve
+! load
+|-
+|
+|
+|
+|
+<blockquote>python
+</blockquote>
+|
+|
+|}
+|}
